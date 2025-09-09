@@ -1,0 +1,1 @@
+#This file will generate solar radiation graphs
